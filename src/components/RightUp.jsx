@@ -23,6 +23,7 @@ function RightUp() {
               <div className='w-[76px] h-[4px] bg-superGray '></div>
               </div></p>
             <p className='text-slate-400'>Offline Sales</p>
+            
             <p className='font-Roboto text-[18px]'>16%
             <div className='flex'>
               <div className='w-[16px] h-[4px] bg-slate-500'></div>
